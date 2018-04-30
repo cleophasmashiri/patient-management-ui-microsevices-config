@@ -6,7 +6,7 @@ zuul:
             url: http://localhost:9081
             sensitive-headers:
         booking:
-            url: http://localhost:9083
+            url: http://localhost:9089
             sensitive-headers:
         payment:
             url: http://localhost:9084
